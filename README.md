@@ -1,4 +1,4 @@
-rainbow-trout-the-gathering
+Rainbow Trout The Gathering
 ===========================
 
-Ponderosa cup
+Please fork and contribute by submitting pull requests!!!
